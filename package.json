@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@next/font": "^13.1.6",
-    "@supabase/shared-types": "^0.1.36",
+    "@supabase/shared-types": "^0.1.37",
     "@supabase/supabase-js": "^2.7.1",
     "@types/node": "18.11.19",
     "@types/react": "18.0.28",
